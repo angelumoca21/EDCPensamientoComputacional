@@ -18,11 +18,12 @@ aspectos no esenciales. La abstracción permite crear modelos y representaciones
 
 - **Algoritmos:** son los pasos definidos y ordenados que llevan a la solución de un problema.
 
-![PensamientoComputacional]()
+![PensamientoComputacional](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/pensamientoComputacional.png)
 
 ## 1.2 Importancia y aplicación en la resolución de problemas.
 
 **Importancia**
+
 Existen varios factores importantes por los cuales el pensamiento computacional es de gran importancia y puede ser aplicado en diferentes ámbitos y disciplinas. Entre ellos podemos enlistar:
 
 - *Eficiencia en la Resolución de Problemas:* el pensamiento computacional permite descomponer problemas complejos en partes más pequeñas y manejables, facilitando la identificación y solución eficiente de cada
@@ -39,6 +40,7 @@ componente.
 - *Desarrollo de Habilidades Analíticas:* promueve la capacidad de analizar datos, reconocer patrones y extraer información valiosa, lo que es crucial en campos como la ciencia de datos y la analítica.
 
 **Aplicaciones en la Resolución de Problemas**
+
 Como se ha mencionado anteriormente, problemas de diferentes ámbitos y disciplinas pueden ser resueltos más fácilmente al aplicar el PC, entre ellas podemos mencionar algunas como:
 - *Resolución de problemas:* permite abordar desafíos de manera estructurada y lógica, facilitando la identificación y aplicación de soluciones.Proceso de abordar desafíos de manera estructurada y eficiente.
 
@@ -62,7 +64,7 @@ En resumen, el pensamiento computacional es una habilidad versátil y valiosa qu
 
 ## 1.3 Introducción a Scratch.
 
-![Scratch]()
+![Scratch](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/scratch.jpg)
 
 Scratch es un entorno de programación visual diseñado para introducir a personas de todas las edades en los conceptos fundamentales de la programación de una manera lúdica y creativa. 
 
@@ -77,7 +79,7 @@ web de manera gratuita y en línea.
 [Scratch](https://scratch.mit.edu/)
 
 ### Interfaz de Scratch
-![interfazScratch]()
+![interfazScratch](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/interfazScratch.png)
 
 Dentro de la interfaz gráfica de Scratch podemos identificar algunos de los elementos más importantes:
 - **Área de edición (bloques):** en esta parte del programa se construirán los bloques de código que harán que los personajes y elementos del programa tengan la interacción que el usuario desee aplicar.
@@ -95,4 +97,4 @@ Dentro de la interfaz gráfica de Scratch podemos identificar algunos de los ele
 ## Otros materieles:
 - [Video PC](https://www.youtube.com/watch?v=0TFZfvvB67Y&t=737s)
 
-- [Cuestionario] ()
+- [Cuestionario] (https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/introPensamientoComputacional/Cuestionario.md)

@@ -2,14 +2,15 @@
 **Objetivo:** Que el estudiante aplique las habilidades, conocimientos y destrezas adquiridas en la resolución de problemáticas tecnológicas en desarrollo y programación, con el propósito de poder integrarse a un campo laboral competente, como puede ser en los sistemas automatizados de instituciones públicas o privadas y que les permita mejorar su calidad de vida y la de su comunidad.
 
 **Plan de estudios**
-Módulo 1: Taller de Pensamiento Computacional.
-Módulo 2: Taller de Desarrollo WEB.
-Módulo 3: Taller de Base de Datos.
-Múdulo 4: Taller de Programación en Python o Java.
+- Módulo 1: Taller de Pensamiento Computacional.
+- Módulo 2: Taller de Desarrollo WEB.
+- Módulo 3: Taller de Base de Datos.
+- Múdulo 4: Taller de Programación en Python o Java.
 
-![PlanEstudiosEDC]()
+![PlanEstudiosEDC](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/mapaCurricular.png)
 
 **Perfil de ingreso**
+
 Toda persona con interés de aprender fundamentos de programación.
 
 - Tener 12 años de edad para tomar los talleres.
@@ -18,17 +19,19 @@ Toda persona con interés de aprender fundamentos de programación.
 - Tener conocimientos básicos de manejo de la computadora.
 
 **Perfil de egreso**
+
 Se acreditará como programador asociado Python o Java.
 
-## EDC Taller: Pensamiento computacional
+## Taller: Pensamiento computacional
 
 *Duración: 30 horas (15 sesiones) Inicio: 17/09/24 Fin: 10/10/24* 
 
 **Objetivo General**
+
 El estudiante adquirirá y desarrollorá habilidades esenciales para la resolución de problemas, así como para representar de manera estructurada y creativa el planteamiento y la resolución de problemas aplicados a la vida real mediante el uso de algoritmos, diagramas de flujo, pseudocódigo y el diseño de programas en Scratch.
 
 **Temario**
-1. [Introducción al pensamiento computacional]()
+1. [Introducción al pensamiento computacional](https://github.com/angelumoca21/EDCPensamientoComputacional/tree/main/introPensamientoComputacional)
 2. [Algoritmos y resolución de problemas]()
 3. [Estructuras de datos fundamentales]()
 4. [Pensamiento lógico y condicional]()
