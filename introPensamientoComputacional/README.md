@@ -97,4 +97,4 @@ Dentro de la interfaz gráfica de Scratch podemos identificar algunos de los ele
 ## Otros materieles:
 - [Video PC](https://www.youtube.com/watch?v=0TFZfvvB67Y&t=737s)
 
-- [Cuestionario] (https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/introPensamientoComputacional/Cuestionario.md)
+- [Cuestionario](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/introPensamientoComputacional/Cuestionario.md)
