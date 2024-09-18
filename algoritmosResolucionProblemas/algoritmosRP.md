@@ -18,6 +18,7 @@ Los algoritmos son fundamentales en la informática y la ciencia de la computaci
 Situación a resolver: sumar dos números
 
 **Entrada:** dos números, A y B
+
 **Proceso:**
     Paso 1: solicitar número A
     Paso 2: leer A
@@ -25,6 +26,7 @@ Situación a resolver: sumar dos números
     Paso 4: leer B
     Paso 5: sumar los números A y B
     Paso 6: mostrar el resultado de A+B
+
 **Salida:** el resultado de la suma.
 
 **Ventajas de los algortimos**
@@ -135,9 +137,10 @@ Características del Diseño de Algoritmos Simples:
 - *Estructura Secuencial:* en muchos casos, los algoritmos simples siguen una estructura secuencial, donde las instrucciones se ejecutan en orden, uno tras otro.
 - *Entrada y Salida Definidas:* especificar claramente los datos de entrada que el algoritmo necesita y los resultados que debe producir.
 - *Operaciones Básicas:* utilizar operaciones y conceptos básicos para construir el algoritmo. Esto puede incluir aritmética simple, comparaciones, bucles y estructuras condicionales.
-* *Eficiencia Relativa:* aunque la eficiencia no es tan crítica en algoritmos simples, aún se debe buscar un diseño que evite redundancias y realice la tarea de manera efectiva.
+- *Eficiencia Relativa:* aunque la eficiencia no es tan crítica en algoritmos simples, aún se debe buscar un diseño que evite redundancias y realice la tarea de manera efectiva.
 
 **Ejercicio: Verificar si un número es Positivo o Negativo**
+
 **Ejercicio: Verificar si un número es Par o Impar**
 
 ## 2.5 Diagrama de flujo y diseño de diagrama de flujo
