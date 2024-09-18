@@ -124,7 +124,7 @@ Los operadores relacionales se utilizan para comparar dos o más valores y deter
 Los operadores lógicos se utilizan para evaluar dos o más expresiones que utilizan operadores relacionales para determinar si la expresión en general es verdadera o falsa.
 Los operadores lógicos son: conjunción o AND que se representa con (&&) y disyunción u OR que se representa  (||). El operador negación o NOT que se representa con el símbolo ~ o !. 
 
-![TablasVerdad]()
+![TablasVerdad](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/tablasVerdad.jpg)
 
 ## 2.4 Diseño de algoritmos simples
 
@@ -148,4 +148,4 @@ En este caso, la comunicación oral del algoritmo es poco práctica porque se pr
 
 Los diagramas de flujo se utilizan para describir gráficamente un algoritmo, y su simbología muestra la solución de un problema con una trayectoria de inicio a fin.
 
-![DiagramaFlujo]()
+![DiagramaFlujo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/diagramaflujo.png)
