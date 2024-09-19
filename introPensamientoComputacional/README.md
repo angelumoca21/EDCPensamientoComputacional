@@ -11,7 +11,7 @@ En el año 2006 Jeannette Wing definió y publicó al artículo [Computational T
 
 - **Descomponer:** consiste en dividir un problema complejo en partes más pequeñas y manejables, cada parte se aborda por separado, facilitando así la comprensión y la resolución eficiente del problema general.
 
-- **Reconocimineto de patrones:** implica identificar similitudes, tendencias o características recurrentes en los datos o problemas. El reconocimiento de patrones ayuda a simplificar la comprensión y a desarrollar soluciones más efectivas.
+- **Reconocimiento de patrones:** implica identificar similitudes, tendencias o características recurrentes en los datos o problemas. El reconocimiento de patrones ayuda a simplificar la comprensión y a desarrollar soluciones más efectivas.
 
 - **Abstracción:** se refiere a la capacidad de enfocarse en los detalles esenciales mientras se ignoran los
 aspectos no esenciales. La abstracción permite crear modelos y representaciones simplificadas de problemas complejos.
@@ -52,7 +52,7 @@ Como se ha mencionado anteriormente, problemas de diferentes ámbitos y discipli
 
 - *Ingeniería:* facilita el diseño y la optimización de sistemas complejos mediante la aplicación de algoritmos y la resolución de problemas específicos.
 
-- *Educación:* se utiliza para mejorar los métodos de enseñanza y prendizaje, permitiendo a los estudiantes abordar problemas académicos de manera más estructurada.
+- *Educación:* se utiliza para mejorar los métodos de enseñanza y aprendizaje, permitiendo a los estudiantes abordar problemas académicos de manera más estructurada.
 
 - *Toma de Decisiones Empresariales:* contribuye a la resolución de problemas empresariales, desde la gestión de recursos hasta la planificación estratégica.
 
@@ -94,7 +94,7 @@ Dentro de la interfaz gráfica de Scratch podemos identificar algunos de los ele
 - *Creatividad y Expresión:* permite a los usuarios expresar su creatividad mediante la creación de proyectos interactivos, juegos y animaciones.
 - *Comunidad de Aprendizaje:* la comunidad en línea de Scratch proporciona un entorno de aprendizaje colaborativo donde los usuarios pueden compartir, inspirarse y aprender de los demás.
 
-## Otros materieles:
+## Otros materiales:
 - [Video PC](https://www.youtube.com/watch?v=0TFZfvvB67Y&t=737s)
 
 - [Cuestionario](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/introPensamientoComputacional/Cuestionario.md)

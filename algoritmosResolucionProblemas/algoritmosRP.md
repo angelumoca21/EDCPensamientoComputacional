@@ -13,23 +13,29 @@ Los algoritmos son fundamentales en la informática y la ciencia de la computaci
 - *Efectividad:* debe ser efectivo en términos de resolver el problema para el cual fue diseñado.
 - *Generalidad:* debe ser lo suficientemente general como para aplicarse a diferentes instancias del mismo tipo de problema.
 
-*Ejemplo de algortimo*
+*Ejemplo de algoritmo*
 
 Situación a resolver: sumar dos números
 
-**Entrada:** dos números, A y B
+**Entrada:** dos números, numero1 y numero2
 
 **Proceso:**
-    Paso 1: solicitar número A
-    Paso 2: leer A
-    Paso 3: solicitar número B
-    Paso 4: leer B
-    Paso 5: sumar los números A y B
-    Paso 6: mostrar el resultado de A+B
+    
+    Paso 1: solicitar numero1
+    
+    Paso 2: leer numero1
+    
+    Paso 3: solicitar numero2
+    
+    Paso 4: leer numero2
+    
+    Paso 5: sumar los números numero1 y numero2
+    
+    Paso 6: mostrar el resultado de numero1+numero2
 
 **Salida:** el resultado de la suma.
 
-**Ventajas de los algortimos**
+**Ventajas de los algoritmos**
 
 - *Estructura Organizada:* los algoritmos proporcionan una estructura clara y organizada para la solución de problemas.
 - *Reusabilidad:* al seguir un conjunto de pasos y acciones similares o adaptados para abordar problemas relacionados.
@@ -37,7 +43,7 @@ Situación a resolver: sumar dos números
 - *Automatización:* facilitan la automatización de tareas, permitiendo que las computadoras realicen procesos de manera sistemática.
 - *Claridad y Comprensión:* ayudan a comprender y comunicar la solución a un problema de manera clara y lógica.
 
-**Desventajas de los algortimos**
+**Desventajas de los algoritmos**
 
 - *Limitaciones en Problemas Complejos:* algunos problemas complejos pueden no tener soluciones algorítmicas eficientes o pueden requerir algoritmos muy complicados.
 - *Dependencia del Diseñador:* la calidad y eficacia de un algoritmo dependen en gran medida de las habilidades y la experiencia del diseñador.
@@ -45,13 +51,13 @@ Situación a resolver: sumar dos números
 - *Imposibilidad de Resolver Algunos Problemas:* existen problemas para los cuales no se ha encontrado un algoritmo que pueda resolverlos de manera eficiente.
 - *Tiempo de Desarrollo:* la creación de algoritmos efectivos puede llevar tiempo y esfuerzo, especialmente para problemas complejos.
 
-**Tipos de algortimos**
+**Tipos de algoritmos**
 
 Los algoritmos pueden clasificarse en **cualitativos** y **cuantitativos**. Los *algoritmos cualitativos* se utilizan para listar los pasos a seguir en actividades diarias cómo preparar una bebida, cepillarse los dientes, entre otros, mientras que los *algoritmos cuantitativos* implican cálculos numéricos, por ejemplo, calcular el finiquito de un empleado, calcular el cambio de la compra de un producto, obtener la raíz cuadrada de un número.
 
 ## 2.2 Datos y tipos de datos
 
-Los datos básicamente son representaciones simbólicas (numéricas, carácteres, valores lógicos, etc.) de un determinado atributo o variable cualitativa o cuantitativa, es decir, la descripción codificada de un hecho empírico, un suceso, una entidad.
+Los datos básicamente son representaciones simbólicas (numéricas, caracteres, valores lógicos, etc.) de un determinado atributo o variable cualitativa o cuantitativa, es decir, la descripción codificada de un hecho empírico, un suceso, una entidad.
 
 Los tipos de datos son fundamentales en la programación ya que permiten describir y manipular de manera eficiente diferentes tipos de información.
 
@@ -95,8 +101,7 @@ Los operadores son necesarios para realizar operaciones. Distinguimos entre oper
 
 ### 2.3.1 Aritméticos
 
-Nos permiten realizar operaciones entre operandos: números,
-constantes o variables. El resultado de una operación aritmética siempre es un número. Entre ellos podemos encontrar a la suma, resta, multiplicación, división, potencias, entre otras, y se utilizan en algoritmos cuantitativos para encontrar la solución a un problema.
+Nos permiten realizar operaciones entre operandos: números, constantes o variables. El resultado de una operación aritmética siempre es un número. Entre ellos podemos encontrar a la suma, resta, multiplicación, división, potencias, entre otras, y se utilizan en algoritmos cuantitativos para encontrar la solución a un problema.
 
 | Nivel jerárquico | Operador |
 | ---------------- | -------- |
@@ -152,3 +157,5 @@ En este caso, la comunicación oral del algoritmo es poco práctica porque se pr
 Los diagramas de flujo se utilizan para describir gráficamente un algoritmo, y su simbología muestra la solución de un problema con una trayectoria de inicio a fin.
 
 ![DiagramaFlujo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/diagramaflujo.png)
+
+[Ejercicios]()
