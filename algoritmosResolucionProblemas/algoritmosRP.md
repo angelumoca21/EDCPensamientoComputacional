@@ -124,7 +124,7 @@ Los operadores relacionales se utilizan para comparar dos o más valores y deter
 |     <=   |Menor o igual|
 |    >=    |Mayor o igual|
 |  <> o != | Diferente |
-|     =    |  Igual a  |
+|     ==    |  Igual a  |
 
 ### 2.3.3. Lógicos
 
