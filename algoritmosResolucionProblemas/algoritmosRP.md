@@ -15,11 +15,11 @@ Los algoritmos son fundamentales en la informática y la ciencia de la computaci
 
 *Ejemplo de algoritmo*
 
-Situación a resolver: sumar dos números
+**Situación a resolver: sumar dos números**
 
-**Entrada:** dos números, numero1 y numero2
+`Entrada: dos números, numero1 y numero2`
 
-**Proceso:**
+`Proceso:`
     
     Paso 1: solicitar numero1
     
@@ -33,7 +33,7 @@ Situación a resolver: sumar dos números
     
     Paso 6: mostrar el resultado de numero1+numero2
 
-**Salida:** el resultado de la suma.
+`Salida: el resultado de la suma.`
 
 **Ventajas de los algoritmos**
 
@@ -158,4 +158,4 @@ Los diagramas de flujo se utilizan para describir gráficamente un algoritmo, y 
 
 ![DiagramaFlujo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/diagramaflujo.png)
 
-[Ejercicios]()
+[Ejercicios](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/algoritmosResolucionProblemas/ejercicios.md)
