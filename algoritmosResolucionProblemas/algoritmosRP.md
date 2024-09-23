@@ -154,7 +154,7 @@ Los diagramas de flujo se utilizan para describir gráficamente un algoritmo, y 
 
 ![DiagramaFlujo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/diagramaflujo.png)
 
-Ejemplo de diagrama de flujo.
+Ejemplo de diagrama de flujo de suma de dos números.
 
 ![DFSuma2números](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/sumaDF.png)
 
