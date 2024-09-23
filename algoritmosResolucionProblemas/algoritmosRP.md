@@ -53,7 +53,7 @@ Los algoritmos son fundamentales en la informática y la ciencia de la computaci
 
 **Tipos de algoritmos**
 
-Los algoritmos pueden clasificarse en **cualitativos** y **cuantitativos**. Los *algoritmos cualitativos* se utilizan para listar los pasos a seguir en actividades diarias cómo preparar una bebida, cepillarse los dientes, entre otros, mientras que los *algoritmos cuantitativos* implican cálculos numéricos, por ejemplo, calcular el finiquito de un empleado, calcular el cambio de la compra de un producto, obtener la raíz cuadrada de un número.
+Los algoritmos pueden clasificarse en **cualitativos** y **cuantitativos**. Los **algoritmos cualitativos** se utilizan para listar los pasos a seguir en actividades diarias cómo preparar una bebida, cepillarse los dientes, entre otros, mientras que los **algoritmos cuantitativos** implican cálculos numéricos, por ejemplo, calcular el finiquito de un empleado, calcular el cambio de la compra de un producto, obtener la raíz cuadrada de un número.
 
 ## 2.2 Datos y tipos de datos
 
@@ -63,7 +63,7 @@ Los tipos de datos son fundamentales en la programación ya que permiten describ
 
 Los datos se clasifican principalmente en **primitivos o simples** y **compuestos**.
 
-Un dato primitivo es una abstracción del mundo real (como por ejemplo un número entero, carácter, un valor lógico, etc.), los cuales pueden ser representados internamente
+Un dato **primitivo** es una abstracción del mundo real (como por ejemplo un número entero, carácter, un valor lógico, etc.), los cuales pueden ser representados internamente
 por la computadora.
 
 Podemos subclasificar este tipo de datos en:
@@ -144,10 +144,6 @@ Características del Diseño de Algoritmos Simples:
 - *Operaciones Básicas:* utilizar operaciones y conceptos básicos para construir el algoritmo. Esto puede incluir aritmética simple, comparaciones, bucles y estructuras condicionales.
 - *Eficiencia Relativa:* aunque la eficiencia no es tan crítica en algoritmos simples, aún se debe buscar un diseño que evite redundancias y realice la tarea de manera efectiva.
 
-**Ejercicio: Verificar si un número es Positivo o Negativo**
-
-**Ejercicio: Verificar si un número es Par o Impar**
-
 ## 2.5 Diagrama de flujo y diseño de diagrama de flujo
 
 El análisis de un problema y la construcción de los algoritmos para solucionarlo, implican un proceso lógico que puede efectuarse de forma individual o grupal. Éste sólo es el primer paso de la solución, posteriormente debe revisarse para encontrar posibles errores u omisiones en la misma, pedir el punto de vista de otras personas y finalmente llevar a cabo el algoritmo. Cada una de estas acciones necesita, generalmente, comunicar el algoritmo a otras personas.
@@ -157,5 +153,9 @@ En este caso, la comunicación oral del algoritmo es poco práctica porque se pr
 Los diagramas de flujo se utilizan para describir gráficamente un algoritmo, y su simbología muestra la solución de un problema con una trayectoria de inicio a fin.
 
 ![DiagramaFlujo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/diagramaflujo.png)
+
+Ejemplo de diagrama de flujo.
+
+![DFSuma2números](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/sumaDF.png)
 
 [Ejercicios](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/algoritmosResolucionProblemas/ejercicios.md)

@@ -42,7 +42,7 @@ componente.
 **Aplicaciones en la Resolución de Problemas**
 
 Como se ha mencionado anteriormente, problemas de diferentes ámbitos y disciplinas pueden ser resueltos más fácilmente al aplicar el PC, entre ellas podemos mencionar algunas como:
-- *Resolución de problemas:* permite abordar desafíos de manera estructurada y lógica, facilitando la identificación y aplicación de soluciones.Proceso de abordar desafíos de manera estructurada y eficiente.
+- *Resolución de problemas:* permite abordar desafíos de manera estructurada y lógica, facilitando la identificación y aplicación de soluciones. Proceso de abordar desafíos de manera estructurada y eficiente.
 
 - *Toma de decisiones:* facilita la toma de decisiones informadas al descomponer problemas complejos y evaluar diferentes opciones de manera sistemática.
 
