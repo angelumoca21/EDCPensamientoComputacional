@@ -49,3 +49,5 @@ Las representación gráfica de la estructura switch es la siguiente:
 - **Estructuras selectivas en cascada o anidadas:** en el desarrollo de la solución de problemas se encuentran frecuentemente casos en los que, luego de tomar una decisión y señalar el correspondiente camino a seguir, es necesario tomar otra decisión. Este proceso se puede repetir numerosas veces. Una forma de solucionarlo es aplicando estructuras selectivas en cascada. Las representación gráfica de la estructura en cascada o anidada puede ser como la siguiente:
 
 ![selectivasCascada](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/selectivasAnidadas.png)
+
+![Ejercicios](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/pensamientoLogicoCondicionales/ejercicios.md)
