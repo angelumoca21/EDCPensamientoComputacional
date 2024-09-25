@@ -40,4 +40,4 @@ El estudiante adquirirá y desarrollará habilidades esenciales para la resoluci
 7. [Resolución de problemas prácticos]()
 8. [Proyecto final]()
 
-8. [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)
+[**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)

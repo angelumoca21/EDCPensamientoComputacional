@@ -50,4 +50,4 @@ Las representación gráfica de la estructura switch es la siguiente:
 
 ![selectivasCascada](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/selectivasAnidadas.png)
 
-![Ejercicios](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/pensamientoLogicoCondicionales/ejercicios.md)
+[Ejercicios](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/pensamientoLogicoCondicionales/ejercicios.md)
