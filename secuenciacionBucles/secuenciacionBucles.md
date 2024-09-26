@@ -18,3 +18,16 @@ Este proceso se repite una y otra vez mientras la condición sea verdadera.
 
 En ocasiones se necesita que el conjunto de sentencias que componen el cuerpo del bucle se ejecuten al menos una vez sea cual sea el valor de la expresión o condición de evaluación. 
 El bucle hacer-mientras es análogo al bucle mientras y el cuerpo del bucle se ejecuta una y otra vez mientras la condición sea verdadera. Existe, sin embargo, una gran diferencia y es que el cuerpo del bucle está encerrado entre las palabras reservadas do-while (hacer y mientras), de modo que las sentencias de dicho cuerpo se ejecutan, al menos una vez, antes de que se evalúe la expresión booleana.
+
+![dowhile](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/dowhile.png)
+
+- **For:** en muchas ocasiones se conoce de antemano el número de veces que se desean ejecutar las acciones de un bucle. La estructura for ejecuta las acciones del cuerpo del bucle un número especificado de veces y de modo automático controla el número de iteraciones o pasos a través del cuerpo del bucle.
+El ciclo for se compone de tres principales partes:
+
+I. Valor inicial o iniciador: Valor en el que inicia el bucle.
+II. Condición: determina cuando se detiene el bucle
+III. Incremento o decremento: indica el valor que se le sumará o restará al terminar un ciclo.
+
+Las representación gráfica de la estructura repetitiva for es la siguiente:
+
+![for](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/for.png)
