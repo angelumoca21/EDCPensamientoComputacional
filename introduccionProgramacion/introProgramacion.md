@@ -19,8 +19,11 @@ Ejemplo
 Sintaxis:
 
 `cosole.log("Hola") JavaScript`
+
 `system.out.print("Hola") Java`
+
 `printf("Hola") C`
+
 `print("Hola") Python`
 
 Semántica: imprimir en pantalla el mensaje Hola. 
@@ -28,7 +31,7 @@ Semántica: imprimir en pantalla el mensaje Hola.
 Un **programa** es un bloque de instrucciones (código fuente) escritas en cierto lenguaje de programación que le indican a la computadora lo que debe hacer y cuyo propósito es resolver un problema.
 Para ejecutar un programa la computadora realiza una traducción de sus componentes al lenguaje máquina, es decir, convierte las instrucciones en cadenas de ceros y unos.
 Este proceso de conversión puede hacerse de dos formas:
-- **Intérprete:**traduce y ejecuta instrucción por instrucción, ejemplos de lenguajes interpretados: Python, Ruby, JavaScript.
+- **Intérprete:** traduce y ejecuta instrucción por instrucción, ejemplos de lenguajes interpretados: Python, Ruby, JavaScript.
 - **Compilador:** toma al bloque de instrucciones, lo traduce sólo una vez y lo ejecuta. Ejemplos: C, ́C++, Fortran, Java.
 
 También es importante considerar que cada lenguaje maneja de forma diferente los datos y según esto los lenguajes de programación pueden clasificarse en:
@@ -72,13 +75,21 @@ Ejemplo de pseudocódigo:
 
 Programa que haga la suma de dos números:
 `Inicio`
-    `a=0`
-    `b=0`
-    `suma=0`
-    `Imprime "Ingresa dos números"`
-    `leer a, b`
-    `Hacer suma=a+b`
-    `Imprime "El resultado de la suma de a+b es:"`
+
+`     a=0`
+
+`     b=0`
+
+`     suma=0`
+
+`     Imprime "Ingresa dos números"`
+
+`     leer a, b`
+
+`     Hacer suma=a+b`
+
+`     Imprime "El resultado de la suma de a+b es:"`
+
 `Fin`
 
 ## 6.4. Introducción a un lenguaje de programación de alto nivel como Scratch.
@@ -90,4 +101,4 @@ En términos generales, un lenguaje de programación es una herramienta que perm
 
 - **Lenguajes de bajo nivel:** es el que proporciona poca o ninguna abstracción del microprocesador de una computadora. Consecuentemente, su traslado al lenguaje máquina es fácil. El término *ensamblador* se refiere a un tipo de programa informático encargado de traducir un archivo fuente, escrito en un lenguaje ensamblador, a un archivo objeto que contiene código máquina ejecutable directamente por la máquina para la que se ha generado.
 
--**Lenguaje de alto nivel:** se caracterizan porque su estructura semántica es muy similar a la forma como escriben los humanos, lo que permite codificar los algoritmos de manera más natural, en lugar de codificarlos en el lenguaje binario de las máquinas, o a nivel de lenguaje. Ejemplos de lenguajes de alto nivel: Java, Python, Fortran, C++.
+- **Lenguaje de alto nivel:** se caracterizan porque su estructura semántica es muy similar a la forma como escriben los humanos, lo que permite codificar los algoritmos de manera más natural, en lugar de codificarlos en el lenguaje binario de las máquinas, o a nivel de lenguaje. Ejemplos de lenguajes de alto nivel: Java, Python, Fortran, C++.
