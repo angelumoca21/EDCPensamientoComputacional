@@ -74,6 +74,7 @@ formal.
 Ejemplo de pseudocódigo:
 
 Programa que haga la suma de dos números:
+
 `Inicio`
 
 `     a=0`
