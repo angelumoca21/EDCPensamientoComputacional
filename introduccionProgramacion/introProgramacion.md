@@ -1,4 +1,4 @@
-# 6.Introducción a la programación
+# 6. Introducción a la programación
 
 La programación es un conjunto de instrucciones que le das a una computadora para que realice una tarea específica. Estas instrucciones se escriben en un lenguaje de programación, que es un conjunto de reglas y símbolos que la computadora puede entender y ejecutar.
 
@@ -32,7 +32,8 @@ Un **programa** es un bloque de instrucciones (código fuente) escritas en ciert
 Para ejecutar un programa la computadora realiza una traducción de sus componentes al lenguaje máquina, es decir, convierte las instrucciones en cadenas de ceros y unos.
 Este proceso de conversión puede hacerse de dos formas:
 - **Intérprete:** traduce y ejecuta instrucción por instrucción, ejemplos de lenguajes interpretados: Python, Ruby, JavaScript.
-- **Compilador:** toma al bloque de instrucciones, lo traduce sólo una vez y lo ejecuta. Ejemplos: C, ́C++, Fortran, Java.
+- **Compilador:** toma al bloque de instrucciones, lo traduce sólo una vez y lo ejecuta. 
+Ejemplos: C, C++, Fortran, Java.
 
 También es importante considerar que cada lenguaje maneja de forma diferente los datos y según esto los lenguajes de programación pueden clasificarse en:
 
@@ -47,8 +48,7 @@ Por paradigma se entiende una de tantas formas en que se pueden hacer las cosas.
 Algunos de los paradigmas de programación más importantes son:
 - **Programación imperativa:** en la programación imperativa, se describen detalladamente los pasos que debe seguir el programa para alcanzar un estado deseado. Los lenguajes de programación como C y Pascal son ejemplos clásicos de este paradigma.
 
-- **Programación declarativa:** la programación declarativa se centra en describir el resultado deseado sin especificar los pasos detallados para llegar allí. Dos subcategorías comunes son la
-*programación funcional* y la *lógica*. Lenguajes como Haskell y Prolog son representativos de estas subcategorías, respectivamente.
+- **Programación declarativa:** la programación declarativa se centra en describir el resultado deseado sin especificar los pasos detallados para llegar allí.
 
 - **Programación estructurada:** este paradigma de programación de software prevé el uso de bucles y estructuras de control.
 
