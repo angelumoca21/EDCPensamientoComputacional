@@ -37,7 +37,7 @@ El estudiante adquirirá y desarrollará habilidades esenciales para la resoluci
 4. [Pensamiento lógico y condicionales](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/pensamientoLogicoCondicionales/pensamientoLogicoCondicionales.md)
 5. [Secuenciación y bucles](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/secuenciacionBucles/secuenciacionBucles.md)
 6. [Introducción a la programación](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/introduccionProgramacion/introProgramacion.md)
-7. [Resolución de problemas prácticos]()
-8. [Proyecto final]()
+7. [Resolución de problemas prácticos](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/resolucionProblemasPracticos/resolucionProblemasPracticos.md)
+8. Proyecto final
 
 [**Link a moodle**](https://educacion.pilares.cdmx.gob.mx/)

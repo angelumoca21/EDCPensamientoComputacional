@@ -69,7 +69,7 @@ Los beneficios que proporciona son:
 formal.
 - Si se siguen las reglas de alineación, pueden observarse claramente los niveles en la estructura del programa.
 
-![PlanEstudiosEDC](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/pseudocodigo.png)
+![Pseudocodigo](https://github.com/angelumoca21/EDCPensamientoComputacional/blob/main/imagenes/pseudocodigo.png)
 
 Ejemplo de pseudocódigo:
 
